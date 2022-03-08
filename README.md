@@ -4,7 +4,7 @@
 
 ### Contributors:
 - [Nomi](https://github.com/nomi-san) - Code gốc
-- [HisuianZoroark](https://github.com/HisuianZoroark69) - Chỉnh sửa cho phù hợp với Event và list Code
+- [HisuianZoroark69](https://github.com/HisuianZoroark69) - Chỉnh sửa cho phù hợp với Event và list Code
 - [mtuan293](https://github.com/mtuan293) - Hỗ trợ WSL
 
 ### Ưu điểm:
