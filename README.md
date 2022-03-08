@@ -3,26 +3,23 @@
 ![demo](https://user-images.githubusercontent.com/9071846/127822154-6bc58822-b073-4050-88a2-1bab5c0857df.jpg)
 
 ### Contributors:
-- [Nomi](https://github.com/nomi-san) - Hàm get token
-- [HanaIroha](https://github.com/HanaIroha) - List code
+- [Nomi](https://github.com/nomi-san) - Code gốc
+- [HisuianZoroark](https://github.com/HisuianZoroark69) - Chỉnh sửa cho phù hợp với Event và list Code
 - [mtuan293](https://github.com/mtuan293) - Hỗ trợ WSL
 
 ### Ưu điểm:
 - Sử dụng API, không chiếm cửa sổ LOL
 - Tự động extract token từ LOL client
-- Tự động đổi quà thân thiện
 - Người code đẹp trai
-- Nhanh vcl
+- Nhanh vcl (thật đấy)
 
 ### Nhược điểm
 - Đang tìm...
 
 ### Hướng dẫn sử dụng cho người lowtech
-- Clone/download repo này
+- Download release
 - Khởi động League Client (LMHT)
-- Mở thư mục `dist`
 - Mở file `lolsn.exe` với quyền Admin (chuột phải vào file chọn "Run as admin") để tự động nhập code
-- Mở file `lolthanthien.exe`  với quyền Admin (chuột phải vào file chọn "Run as admin") để tự động đổi thưởng khi full thân thiện
 
 ### Hướng dẫn sử dụng từ source
 - Clone/download repo này
@@ -36,8 +33,7 @@
     - chạy `python lolthanthien-wsl.py`
 
 ### Lưu ý
-- Chỉ chạy được max tới 500 bóng bay nên code sẽ break nếu như gặp giới hạn này
-- File code mặc định được lấy từ https://github.com/HanaIroha/ToolSinhNhatLOL2021/blob/main/Toolcodell/bin/Release/code.txt. Hãy star repo đó nếu nó giúp ích cho bạn
+- Chỉ lấy tối da 5 code thui
 - Phần mềm diệt virus có thể nghi ngờ nhầm file build, hãy check thoải mái nếu bạn cần
 
 ### Nếu code chạy tốt, hãy
